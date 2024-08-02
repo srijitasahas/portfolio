@@ -1,0 +1,1 @@
+print('ar jalashna bapu shanti de')
